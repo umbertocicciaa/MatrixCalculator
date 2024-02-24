@@ -6,3 +6,8 @@ This repository contains a comprehensive library for performing various matrix o
 - Transpose operation
 - Determinant calculation
 - Inverse calculation
+
+## Work in progress
+- UI
+- Inverse
+- Operaton of Addition, subtraction, multiplication of matrices from UI
